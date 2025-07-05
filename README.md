@@ -19,6 +19,9 @@ A beginner-friendly ML model that demonstrates how to predict exam scores using 
 - Input: Study hours
 - Output: Predicted marks (via a trained Linear Regression model)
 
+## Live App link: 
+https://student-marks-predictor-t8xaebyceiivwczwqdeivo.streamlit.app/
+
 ## 📊 Example
 ```
 Input: 6 hours
