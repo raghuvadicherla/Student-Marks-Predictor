@@ -28,3 +28,4 @@ if st.button("Predict Marks"):
 if st.checkbox("Show Sample Training Data"):
     df = pd.DataFrame({"Hours Studied": X.flatten(), "Marks": y})
     st.line_chart(df.set_index("Hours Studied"))
+    
