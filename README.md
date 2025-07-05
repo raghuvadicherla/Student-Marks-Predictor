@@ -32,4 +32,4 @@ Predicted Marks: ~88.34
 ## 👩‍💻 Author
 **Raghu vamshi**  
 Data Analyst | AI Enthusiast  
-[GitHub](https://github.com/raghuvadicherla))
+[GitHub](https://github.com/raghuvadicherla)
